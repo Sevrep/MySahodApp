@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MySahodApp</string>
+    <string name="enter_your_daily_rate">Enter your daily rate...</string>
+    <string name="enter_number_of_regular_hours">Enter number of regular hours</string>
+    <string name="enter_number_of_overtime_hours">Enter number of overtime hours</string>
+    <string name="eto_ang_sahod_mo">Eto ang sahod mo:</string>
+    <string name="php_0_00">Php 0.00</string>
+    <string name="todo">todo</string>
+</resources>
